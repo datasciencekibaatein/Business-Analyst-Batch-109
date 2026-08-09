@@ -1,0 +1,7 @@
+What is python ?
+variable & data types
+operators
+conditional statements
+data structures
+iterative statements
+user defined function
