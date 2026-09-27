@@ -1,0 +1,96 @@
+Product_ID$Product_Name$Category_ID$Category$Subcategory$Brand$Unit_Cost$List_Price
+P0001$Samsung Galaxy A55$CAT001$Electronics$Smartphones$Samsung$19789$30400
+P0002$OnePlus Nord CE 4$CAT001$Electronics$Smartphones$OnePlus$31755$44700
+P0003$Apple iPhone 15$CAT001$Electronics$Smartphones$Apple$1084$1400
+P0004$Vivo V30$CAT001$Electronics$Smartphones$Vivo$20974$28700
+P0005$Nothing Phone 2a$CAT001$Electronics$Smartphones$Nothing$1046$1600
+P0006$HP Pavilion 14$CAT002$Electronics$Laptops$HP$3701$4850
+P0007$Dell Inspiron 15$CAT002$Electronics$Laptops$Dell$12456$16850
+P0008$Lenovo IdeaPad Slim 5$CAT002$Electronics$Laptops$Lenovo$4065$6750
+P0009$ASUS Vivobook 15$CAT002$Electronics$Laptops$ASUS$6324$11200
+P0010$Acer Aspire 5$CAT002$Electronics$Laptops$Acer$26977$38800
+P0011$Sony WH-1000XM5$CAT003$Electronics$Audio$Sony$17873$28300
+P0012$JBL Tune 770NC$CAT003$Electronics$Audio$JBL$56203$74400
+P0013$Boat Airdopes 141$CAT003$Electronics$Audio$Boat$18438$31000
+P0014$Bose QuietComfort$CAT003$Electronics$Audio$Bose$4201$7500
+P0015$JBL Flip 6$CAT003$Electronics$Audio$JBL$1273$1800
+P0016$Anker USB-C Hub$CAT013$Electronics$Accessories$Anker$20549$26600
+P0017$Logitech MX Master 3S$CAT013$Electronics$Accessories$Logitech$2509$3950
+P0018$Samsung 256GB SSD$CAT013$Electronics$Accessories$Samsung$4511$7600
+P0019$Belkin Power Bank$CAT013$Electronics$Accessories$Belkin$1088$1650
+P0020$Portronics Keyboard$CAT013$Electronics$Accessories$Portronics$1795$2550
+P0021$Philips Air Fryer$CAT005$Home Appliances$Kitchen$Philips$3893$5250
+P0022$Prestige Induction Cooktop$CAT005$Home Appliances$Kitchen$Prestige$10944$17600
+P0023$Bajaj Mixer Grinder$CAT005$Home Appliances$Kitchen$Bajaj$23780$32350
+P0024$LG Microwave Oven$CAT005$Home Appliances$Kitchen$LG$2558$4150
+P0025$IFB Dishwasher$CAT005$Home Appliances$Kitchen$IFB$9431$16200
+P0026$LG 1.5T Split AC$CAT006$Home Appliances$Cooling$LG$965$1750
+P0027$Voltas 1.5T Split AC$CAT006$Home Appliances$Cooling$Voltas$18452$26250
+P0028$Blue Star 1.5T AC$CAT006$Home Appliances$Cooling$Blue$13132$18000
+P0029$Daikin 1.5T AC$CAT006$Home Appliances$Cooling$Daikin$3949$5800
+P0030$Crompton Air Cooler$CAT006$Home Appliances$Cooling$Crompton$778$1350
+P0031$Dyson V8 Vacuum$CAT007$Home Appliances$Cleaning$Dyson$10007$15200
+P0032$Eureka Forbes Vacuum$CAT007$Home Appliances$Cleaning$Eureka$6860$9450
+P0033$Philips Steam Iron$CAT007$Home Appliances$Cleaning$Philips$8805$13000
+P0034$Kent Water Purifier$CAT007$Home Appliances$Cleaning$Kent$5703$9200
+P0035$AGARO Pressure Washer$CAT007$Home Appliances$Cleaning$AGARO$520$800
+P0036$Wakefit Queen Bed$CAT008$Furniture$Bedroom$Wakefit$1835$2850
+P0037$Nilkamal Wardrobe$CAT008$Furniture$Bedroom$Nilkamal$21858$36200
+P0038$Sleepyhead Mattress$CAT008$Furniture$Bedroom$Sleepyhead$922$1500
+P0039$Wooden Bedside Table$CAT008$Furniture$Bedroom$Wooden$2704$3850
+P0040$Godrej Dressing Table$CAT008$Furniture$Bedroom$Godrej$8106$11100
+P0041$Urban Ladder Sofa$CAT009$Furniture$Living Room$Urban$10939$17000
+P0042$Nilkamal Recliner$CAT009$Furniture$Living Room$Nilkamal$18211$30950
+P0043$Coffee Table$CAT009$Furniture$Living Room$Coffee$742$1300
+P0044$TV Unit$CAT009$Furniture$Living Room$TV$14076$21450
+P0045$Bookshelf$CAT009$Furniture$Living Room$Bookshelf$1530$2300
+P0046$Featherlite Office Chair$CAT010$Furniture$Office$Featherlite$1562$2200
+P0047$Study Desk$CAT010$Furniture$Office$Study$4527$7100
+P0048$Filing Cabinet$CAT010$Furniture$Office$Filing$2780$4000
+P0049$Visitor Chair$CAT010$Furniture$Office$Visitor$2908$5100
+P0050$Laptop Table$CAT010$Furniture$Office$Laptop$1465$1900
+P0051$Levi's 511 Jeans$CAT011$Fashion$Men$Levi's$5972$8400
+P0052$Allen Solly Shirt$CAT011$Fashion$Men$Allen$541$700
+P0053$Van Heusen Trousers$CAT011$Fashion$Men$Van$3646$5100
+P0054$Puma Running Shoes$CAT011$Fashion$Men$Puma$858$1400
+P0055$Nike Sneakers$CAT011$Fashion$Men$Nike$265$350
+P0056$Biba Kurta$CAT012$Fashion$Women$Biba$865$1450
+P0057$W for Woman Dress$CAT012$Fashion$Women$W$547$800
+P0058$Levi's Women's Jeans$CAT012$Fashion$Women$Levi's$374$500
+P0059$Puma Sports Shoes$CAT012$Fashion$Women$Puma$3363$4700
+P0060$Allen Solly Top$CAT012$Fashion$Women$Allen$937$1350
+P0061$Fastrack Watch$CAT013$Fashion$Accessories$Fastrack$1679$2400
+P0062$Wildcraft Backpack$CAT013$Fashion$Accessories$Wildcraft$226$350
+P0063$Ray-Ban Sunglasses$CAT013$Fashion$Accessories$Ray-Ban$199$300
+P0064$Lavie Handbag$CAT013$Fashion$Accessories$Lavie$525$900
+P0065$Peter England Belt$CAT013$Fashion$Accessories$Peter$240$350
+P0066$Lakme Face Wash$CAT014$Beauty & Personal Care$Skincare$Lakme$191$250
+P0067$Nivea Moisturizer$CAT014$Beauty & Personal Care$Skincare$Nivea$913$1450
+P0068$The Derma Co Serum$CAT014$Beauty & Personal Care$Skincare$The$861$1550
+P0069$Mamaearth Sunscreen$CAT014$Beauty & Personal Care$Skincare$Mamaearth$4990$7550
+P0070$Himalaya Face Cream$CAT014$Beauty & Personal Care$Skincare$Himalaya$1992$3500
+P0071$L'Oreal Shampoo$CAT015$Beauty & Personal Care$Haircare$L'Oreal$663$1000
+P0072$Dove Conditioner$CAT015$Beauty & Personal Care$Haircare$Dove$4702$6900
+P0073$Tresemme Shampoo$CAT015$Beauty & Personal Care$Haircare$Tresemme$581$950
+P0074$Mamaearth Hair Serum$CAT015$Beauty & Personal Care$Haircare$Mamaearth$335$500
+P0075$Matrix Hair Mask$CAT015$Beauty & Personal Care$Haircare$Matrix$444$800
+P0076$Philips Trimmer$CAT016$Beauty & Personal Care$Personal Care$Philips$3213$4250
+P0077$Gillette Razor$CAT016$Beauty & Personal Care$Personal Care$Gillette$135$200
+P0078$Oral-B Electric Brush$CAT016$Beauty & Personal Care$Personal Care$Oral-B$141$200
+P0079$Nivea Body Lotion$CAT016$Beauty & Personal Care$Personal Care$Nivea$281$400
+P0080$Beardo Grooming Kit$CAT016$Beauty & Personal Care$Personal Care$Beardo$1999$2750
+P0081$Decathlon Yoga Mat$CAT017$Sports & Fitness$Fitness Equipment$Decathlon$228$300
+P0082$Cosco Dumbbells$CAT017$Sports & Fitness$Fitness Equipment$Cosco$307$550
+P0083$Resistance Band Set$CAT017$Sports & Fitness$Fitness Equipment$Resistance$1557$2450
+P0084$Skipping Rope$CAT017$Sports & Fitness$Fitness Equipment$Skipping$6145$8350
+P0085$Adjustable Kettlebell$CAT017$Sports & Fitness$Fitness Equipment$Adjustable$654$850
+P0086$Decathlon Cricket Bat$CAT018$Sports & Fitness$Outdoor$Decathlon$501$750
+P0087$SS Cricket Helmet$CAT018$Sports & Fitness$Outdoor$SS$497$650
+P0088$Cosco Football$CAT018$Sports & Fitness$Outdoor$Cosco$224$400
+P0089$Yonex Badminton Racket$CAT018$Sports & Fitness$Outdoor$Yonex$1090$1400
+P0090$Nivia Basketball$CAT018$Sports & Fitness$Outdoor$Nivia$7980$11050
+P0091$Adidas T-Shirt$CAT019$Sports & Fitness$Fitness Wear$Adidas$8310$11000
+P0092$Nike Track Pants$CAT019$Sports & Fitness$Fitness Wear$Nike$1276$2050
+P0093$Puma Sports Shorts$CAT019$Sports & Fitness$Fitness Wear$Puma$4529$6450
+P0094$HRX Training Shoes$CAT019$Sports & Fitness$Fitness Wear$HRX$600$1050
+P0095$Reebok Sports Bra$CAT019$Sports & Fitness$Fitness Wear$Reebok$3510$5750
